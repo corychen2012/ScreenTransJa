@@ -1,0 +1,27 @@
+# build output
+dist/
+tools/
+*.exe
+
+# 演示截图（含本地桌面环境，不公开）
+docs/
+
+# 本地配置（可能含 API Key）
+config.json
+appsettings.json
+
+# logs / temp
+*.log
+*.tmp
+*.bak
+
+# IDE
+.vs/
+*.suo
+*.user
+*.userprefs
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
